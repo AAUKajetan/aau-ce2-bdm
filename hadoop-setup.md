@@ -17,8 +17,8 @@ This document describes the Hadoop cluster configuration with 1 master node and 
 
 ### SSH Keys
 All nodes use the SSH key named **mac2-bdm**:
-- Private key: `id_ed25519_nsc`
-- Public key: `id_ed25519_nsc.pub`
+- Private key: `id_ed25519_bdm`
+- Public key: `id_ed25519_bdm.pub`
 
 ### User Credentials
 - **Username**: `hadoop`
