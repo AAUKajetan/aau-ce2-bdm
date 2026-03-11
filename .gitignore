@@ -1,1 +1,23 @@
-.venv
+# Virtual environment
+spark-env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Spark / Hadoop logs and temp files
+*.log
+derby.log
+metastore_db/
+spark-warehouse/
+
+# OS
+.DS_Store
